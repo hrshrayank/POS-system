@@ -1,0 +1,158 @@
+{
+  "customers": [
+    {
+      "id": 100,
+      "name": "Surya",
+      "phone": "8688768678",
+      "address": "Bangalore, India",
+      "pincode": "767676"
+    },
+    {
+      "id": 101,
+      "name": "Shrayank",
+      "phone": "888888888",
+      "address": "Bangalore, India",
+      "pincode": "767676"
+    },
+    {
+      "id": 102,
+      "name": "Ram",
+      "phone": "999999999",
+      "address": "Bangalore, India",
+      "pincode": "767676"
+    },
+    {
+      "name": "ss",
+      "phone": "9008156702",
+      "address": "bangaloe",
+      "pincode": "888888",
+      "id": 103
+    },
+    {
+      "name": "",
+      "phone": "",
+      "address": "",
+      "pincode": "",
+      "id": 104
+    },
+    {
+      "name": "",
+      "phone": "",
+      "address": "",
+      "pincode": "",
+      "id": 105
+    },
+    {
+      "name": "nitin",
+      "phone": "99000000",
+      "address": "Bangalore",
+      "pincode": "560037",
+      "id": 106
+    },
+    {
+      "name": "Vijeth",
+      "phone": "99999999",
+      "address": "Bangalore",
+      "pincode": "88888",
+      "id": 107
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "CHICKEN FRY",
+      "price": 121.45,
+      "desc": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "category_name": "electronics",
+      "url": "https://loremflickr.com/320/240/chicken"
+    },
+    {
+      "id": 2,
+      "name": "Fish",
+      "price": 121.45,
+      "desc": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "category_name": "electronics",
+      "url": "https://loremflickr.com/320/240/sandwhich"
+    },
+    {
+      "id": 3,
+      "name": "BIRYANI",
+      "price": 130,
+      "desc": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "category_name": "electronics",
+      "url": "https://loremflickr.com/320/240/biryani"
+    },
+    {
+      "id": 4,
+      "name": "GOBI",
+      "price": 150,
+      "desc": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "category_name": "electronics",
+      "url": "https://loremflickr.com/320/240/chicken"
+    },
+    {
+      "id": 5,
+      "name": "NOODLES",
+      "price": 121.45,
+      "desc": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "category_name": "electronics",
+      "url": "https://loremflickr.com/320/240/noodles"
+    },
+    {
+      "id": 6,
+      "name": "MUTTON",
+      "price": 121.45,
+      "desc": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "category_name": "electronics",
+      "url": "https://loremflickr.com/320/240/mutton"
+    },
+    {
+      "id": 7,
+      "name": "RICE",
+      "price": 50,
+      "desc": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "category_name": "electronics",
+      "url": "https://loremflickr.com/320/240/rice"
+    },
+    {
+      "id": 8,
+      "name": "DAL",
+      "price": 121.45,
+      "desc": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "category_name": "electronics",
+      "url": "https://loremflickr.com/320/240/dal"
+    },
+    {
+      "id": 9,
+      "name": "CURD",
+      "price": 121.45,
+      "desc": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "category_name": "electronics",
+      "url": "https://loremflickr.com/320/240/curd"
+    },
+    {
+      "id": 10,
+      "name": "EGG",
+      "price": 121.45,
+      "desc": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "category_name": "electronics",
+      "url": "https://loremflickr.com/320/240/egg"
+    }
+  ],
+  "orders": [
+    {
+      "id": 87878768,
+      "items": [
+        {
+          "id": 7676767,
+          "qty": 3,
+          "price": 223.76
+        }
+      ],
+      "customer_id": 21323232,
+      "delivered": false,
+      "date_of_order": "some date",
+      "total_pay": 7878.89
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+table {
+    margin: 10px 300px;
+    max-width: 1000px;
+}
+.modal-body input {
+    margin: 10px;
+}
+.modal-body {
+    text-align: center;
+}
+.btn{
+    text-align: center;
+    justify-content: center;
+    margin: 10px 600px;
+    color: blanchedalmond;
+    background-color: blanchedalmond;
+    background: blanchedalmond;
+    font-size: 100px;
+}
+.btn-primary {
+    background-color: blanchedalmond !important;
+    color: black !important;
+    border: 1px solid grey !important;
+}

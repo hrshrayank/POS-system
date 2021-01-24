@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+i.fas {
+    color: yellowgreen;
+}
+.outer {
+    border: 1px solid grey;
+    width: 600px;
+    height:200px;
+    text-align: center;
+    justify-content: center;
+    margin: 200px 450px;
+    padding: 10px;
+    padding-top: 50px;
+    background-color: whitesmoke;
+    border-radius: 100px;
+}
